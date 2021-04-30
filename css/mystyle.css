@@ -1,0 +1,32 @@
+h1, h2 {
+    color : #de8971 ;
+    font-family: verdana;
+    text-align: center;
+
+}
+
+h3{
+    color : #7b6079 ;
+    font-family: verdana;
+    text-align: center;
+    background-color: #ffe9d6 ;
+}
+
+h5{
+    color : #7b6079 ;
+    font-family: verdana;
+    text-align: center;
+}
+
+p,li{
+    color : #766161 ;
+    font-family: verdana;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.about-p{
+    color:rgb(105, 85, 124);
+    text-align: left;
+}
+
